@@ -55,7 +55,6 @@ The output will be a json-compatible structured list of trips sorted by price. T
 
 **For more information, check the example section.**
 
-
 ### Points of interest
 Assuming your solution is working, we'll be additionally judging based on following skills:
 - input, output - what if we input garbage?
@@ -67,6 +66,9 @@ Assuming your solution is working, we'll be additionally judging based on follow
 - **Your solution needs to contain a README file describing what it does and how to run it.**
 - Only the standard library is allowed, no 3rd party packages, notebooks, specialized distros (Conda) etc.
 - The code should run as is, no environment setup should be required.
+
+## Submissions
+Follow the instructions you received in the email.
 
 ## Example behaviour
 
