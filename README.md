@@ -1,8 +1,5 @@
 # Python weekend entry task
 
-TBA
-
-## Assignment
 **Write a python script/module/package, that for a given flight data in a form of `csv` file (check the examples), prints out a structured list of all flight combinations for a selected route between airports A -> B, sorted by the final price for the trip.**
 
 ### Description
