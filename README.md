@@ -1,5 +1,6 @@
 # Python weekend entry task
 
+## Assignment
 **Write a python script/module/package, that for a given flight data in a form of `csv` file (check the examples), prints out a structured list of all flight combinations for a selected route between airports A -> B, sorted by the final price for the trip.**
 
 ### Description
@@ -67,11 +68,7 @@ Assuming your solution is working, we'll be additionally judging based on follow
 - Only the standard library is allowed, no 3rd party packages, notebooks, specialized distros (Conda) etc.
 - The code should run as is, no environment setup should be required.
 
-## Submissions
-Follow the instructions you received in the email.
-
 ## Example behaviour
-
 Let's imagine we wrote our solution into one file, `solution.py` and our datatset is in `data.csv`.
 We want to test the script by performing a flight search on route BTW -> REJ (we know the airports are present in the dataset) with one bag. We run the thing:
 
