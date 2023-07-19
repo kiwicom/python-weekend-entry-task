@@ -1,5 +1,7 @@
 # Python weekend entry task
 
+**Welcome to Europython!** To experience the attendee selection process for Kiwi.com Python Weekend and win some flight vouchers for your next trip, you can try solving this entry task and receiving feedback. Just email the solution in a zip file to lukas.kubis@kiwi.com with the subject starting with `PW`. Happy coding!
+
 ## Assignment
 **Write a python script/module/package, that for a given flight data in a form of `csv` file (check the examples), prints out a structured list of all flight combinations for a selected route between airports A -> B, sorted by the final price for the trip.**
 
